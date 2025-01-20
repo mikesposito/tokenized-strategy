@@ -1,5 +1,6 @@
 {
-    "name": "yearn_base_strategy",
+    "name": "tokenized-strategy",
+    "version": "1.0.0",
     "devDependencies": {
         "prettier": "^2.5.1",
         "prettier-plugin-solidity": "^1.0.0-beta.19",
