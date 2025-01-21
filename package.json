@@ -14,5 +14,6 @@
         "format:check": "prettier --check 'src/**/*.*(sol|json)' 'script/*.sol'",
         "lint": "solhint 'src/**/*.sol' 'script/*.sol'",
         "lint:fix": "solhint --fix 'src/**/*.sol' 'script/*.sol'"
-    }
-  }
+    },
+    "packageManager": "yarn@3.5.1"
+}
